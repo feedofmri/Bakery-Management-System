@@ -56,4 +56,4 @@ The Bakery Management System (BMS) is a comprehensive digital solution tailored 
 ## 🎨 UI Design
 We’ve created a modern and user-friendly UI using Figma.
 
-➡️ [View Figma Design](https://www.figma.com/file/your-design-link-here)
+➡️ [View Figma Design](https://www.figma.com/proto/t0QP8QQegDLzJzYW0S0gW6/Dhaka-Bakery-SMS?page-id=0%3A1&node-id=17-844&p=f&viewport=809%2C536%2C0.13&t=MtiRfGsSFikNUlqZ-1&scaling=min-zoom&content-scaling=fixed)
