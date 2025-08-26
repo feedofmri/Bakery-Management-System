@@ -1,4 +1,4 @@
-# CrumbCart - Bakery Marketplace Frontend
+# CrumbCart - Bakery Marketplace
 
 A modern React.js frontend application for CrumbCart, the ultimate bakery marketplace connecting customers with local bakeries and providing comprehensive business management tools for bakery owners.
 
