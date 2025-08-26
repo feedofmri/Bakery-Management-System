@@ -12,7 +12,7 @@ CrumbCart is a comprehensive bakery marketplace platform built with React.js and
 
 | Member | Student ID | Role |
 |--------|------------|------|
-| **Aran Hasan** | 20220204053 | Product Catalog & Inventory UI |
+| **Arany Hasan** | 20220204053 | Product Catalog & Inventory UI |
 | **Adel Mohammad Zahid** | 20220204057 | Project Setup & Marketplace Dashboard |
 | **Rehnuma Tarannum** | 20220204063 | Expense Management & AI Interface |
 | **Md. Rubayet Islam** | 20220204069 | Order Processing & Analytics UI |
